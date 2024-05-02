@@ -1,0 +1,56 @@
+[
+  {
+    "id": "001",
+    "brand": "Apple",
+    "category": "Smartphone",
+    "model": "IPhone-12"
+  },
+  {
+    "id": "002",
+    "brand": "Apple",
+    "category": "Smartphone",
+    "model": "IPhone-13"
+  },
+  {
+    "id": "003",
+    "brand": "Apple",
+    "category": "Smartphone",
+    "model": "IPhone-14"
+  },
+  {
+    "id": "004",
+    "brand": "Apple",
+    "category": "Smartphone",
+    "model": "IPhone-15"
+  },
+  {
+    "id": "005",
+    "brand": "Samsung",
+    "category": "Smartphone",
+    "model": "Galaxy-20"
+  },
+  {
+    "id": "006",
+    "brand": "Samsung",
+    "category": "Smartphone",
+    "model": "Galaxy-21"
+  },
+  {
+    "id": "007",
+    "brand": "Samsung",
+    "category": "Smartphone",
+    "model": "Galaxy-22"
+  },
+  {
+    "id": "008",
+    "brand": "Samsung",
+    "category": "Smartphone",
+    "model": "Galaxy-23"
+  },
+  {
+    "id": "009",
+    "brand": "Samsung",
+    "category": "Smartphone",
+    "model": "Galaxy-24"
+  }
+]
