@@ -5,7 +5,24 @@
   box-sizing: border-box;
 }
 
+html,
 body {
+  width: 100%;
+  height: 100%;
+
   background-color: var(--main-bg);
   color: var(--main-color);
+
+  scroll-behavior: smooth;
+}
+
+.page__wrapper {
+  min-height: 100%;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  flex-grow: 1;
 }
