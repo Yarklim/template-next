@@ -1,2 +1,8 @@
-# template-next
-Starting Template Next JS
+# Starting Template Next JS
+## Tech Stack:
+* Next  
+* React  
+* JavaScript  
+* Sass
+* EsLint  
+* Prettier  
