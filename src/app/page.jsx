@@ -4,5 +4,5 @@ export const metadata = {
 };
 
 export default function Home() {
-  return <div>Hello</div>;
+  return <div className="container">Hello</div>;
 }

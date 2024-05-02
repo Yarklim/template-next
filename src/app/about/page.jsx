@@ -1,11 +1,12 @@
 import Image from 'next/image';
 import imageAbout from '../../../public/images/about.png';
 
+import clsx from 'clsx';
 import s from './about.module.scss';
 
 const AboutPage = () => {
   return (
-    <article className={s.wrapper}>
+    <article className={clsx('container', s.wrapper)}>
       <Image src={imageAbout} alt="about" width={300} height={'auto'} />
       <p className={s.text}>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus dolores pariatur magnam
