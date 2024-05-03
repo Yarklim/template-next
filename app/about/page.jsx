@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import imageAbout from '../../../public/images/about.png';
+import imageAbout from '../../public/images/about.png';
 
 import clsx from 'clsx';
 import s from './about.module.scss';
