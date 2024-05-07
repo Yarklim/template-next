@@ -5,4 +5,5 @@
 * JavaScript  
 * Sass
 * EsLint  
+* clsx  
 * Prettier  

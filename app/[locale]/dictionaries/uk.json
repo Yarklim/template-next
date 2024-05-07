@@ -1,0 +1,20 @@
+{
+  "header": {
+    "logo": "ЛОГО",
+    "navBar": {
+      "home": "Домашня сторінка",
+      "about": "Про нас",
+      "products": "Товари"
+    }
+  },
+  "homePage": {
+    "title": "Домашня сторінка"
+  },
+  "aboutPage": {
+    "title": "Про нас",
+    "desc": "Якийсь рандомний текст"
+  },
+  "productsPage": {
+    "title": "Товари"
+  }
+}

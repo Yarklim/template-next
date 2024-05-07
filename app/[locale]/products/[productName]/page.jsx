@@ -1,4 +1,4 @@
-import { getProductById } from '../../../server/api';
+import { getProductById } from '@/api/api';
 
 import clsx from 'clsx';
 import s from './ProductPage.module.scss';

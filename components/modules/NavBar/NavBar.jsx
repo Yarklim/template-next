@@ -1,17 +1,17 @@
 import Link from 'next/link';
 import s from './NavBar.module.scss';
 
-const NavBar = () => {
+const NavBar = ({ dict }) => {
   return (
     <nav className={s.wrapper}>
       <Link href="/" className={s.link}>
-        Main
+        {dict.header.navBar.home}
       </Link>
       <Link href="/about" className={s.link}>
-        About
+        {dict.header.navBar.about}
       </Link>
       <Link href="/products" className={s.link}>
-        Products
+        {dict.header.navBar.products}
       </Link>
     </nav>
   );

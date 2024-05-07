@@ -1,0 +1,20 @@
+{
+  "header": {
+    "logo": "LOGO",
+    "navBar": {
+      "home": "Home",
+      "about": "About",
+      "products": "Products"
+    }
+  },
+  "homePage": {
+    "title": "Home Page"
+  },
+  "aboutPage": {
+    "title": "About",
+    "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus dolores pariatur magnam veniam necessitatibus exercitationem eius soluta quibusdam ipsa asperiores nobis velit placeat qui blanditiis, nisi iusto? Inventore, tempora molestiae?"
+  },
+  "productsPage": {
+    "title": "Products"
+  }
+}
